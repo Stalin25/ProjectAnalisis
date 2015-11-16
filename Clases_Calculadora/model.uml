@@ -16,6 +16,11 @@
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Qm-5AYtUEeWgYad_ko7xbA"/>
       <defaultValue xmi:type="uml:Expression" xmi:id="_efGfYItUEeWgYad_ko7xbA"/>
     </ownedAttribute>
+    <ownedAttribute xmi:id="_lBlQgIv6EeW7ot0ClMtMoA" name="resultado">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDouble"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_wAVdEIv6EeW7ot0ClMtMoA"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_wY7jQIv6EeW7ot0ClMtMoA"/>
+    </ownedAttribute>
     <ownedOperation xmi:id="_tELSYItUEeWgYad_ko7xbA" name="IngresaNumero">
       <ownedParameter xmi:id="_YbXQUIvNEeWgYad_ko7xbA" name="a"/>
       <ownedParameter xmi:id="_ZpPYsIvNEeWgYad_ko7xbA" name="b"/>
